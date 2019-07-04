@@ -1,0 +1,36 @@
+body {
+    background: #170C3A;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0px 0px 0px;
+}
+
+.container-button {
+  margin: 5px 0 0 0;
+  border-radius: 5px;
+  height: 34px;
+  width: 130px;
+  color: #fff;
+  border: 0;
+  background: rgba(54, 93, 240, 1);
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 16px;
+
+}
+
+.container-input {
+    background-color: rgba(245, 244, 246, 1) ;
+    border: 1px solid rgba(235, 234, 237, 1);
+    border-radius: 5px;
+    height: 34px;
+    padding: 0 15px;
+    font-size: 14px;
+}
+
+

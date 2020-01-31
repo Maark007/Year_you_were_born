@@ -6,4 +6,5 @@
 ```
 1 - React-js
 2 - Redux
+3 - React-toastify
 ```
